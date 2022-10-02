@@ -1,0 +1,39 @@
+{
+  "name": "FrrlDfni-MD",
+  "version": "2.0.0",
+  "description": "Follow My Instagram @farrelauliairfealdo_",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FrrlxD/FrrlDfniBOT"
+  },
+  "author": "Ramlan ID",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "github:FatihArridho/baileys",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@vitalets/google-translate-api": "^7.0.0",
+    "awesome-phonenumber": "^3.2.0",
+    "axios": "^0.24.0",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "crypto": "^1.0.1",
+    "figlet": "^1.5.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.16.1",
+    "jsdom": "^20.0.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34",
+    "node-fetch": "^3.2.5",
+    "node-webpmux": "^3.1.1",
+    "os": "^0.1.2",
+    "parse-ms": "^3.0.0",
+    "path": "^0.12.7",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
