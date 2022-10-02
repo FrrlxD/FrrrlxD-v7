@@ -36,8 +36,8 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/FrrlxD/FrrlDfniBOT
-cd FrrlDfniBOT
+git clone https://github.com/FrrlxD/FrrrlxD-v7
+cd FrrrlxD-v7
 npm install
 npm start
 ```
@@ -46,8 +46,8 @@ npm start
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/FrrlxD/FrrlDfniBOT
-cd FrrlDfniBOT
+git clone https://github.com/FrrlxD/FrrrlxD-v7
+cd FrrrlxD-v7
 npm install
 npm start
 ```
